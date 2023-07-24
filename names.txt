@@ -1,0 +1,4 @@
+the names of my projects are :
+1) sem-course registration system
+2) Self-checkout application
+3) smart surveillance system
